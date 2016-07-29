@@ -93,6 +93,7 @@ export default class Hot extends Component {
 var styles = {
   container: {
    flex: 1,
+   justifyContent: 'center'
   },
   messageText: {
    fontSize: 17,
